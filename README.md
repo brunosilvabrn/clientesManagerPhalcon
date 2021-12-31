@@ -97,7 +97,7 @@ ativo    => POST
 ```
 ---
 
-## Podem ser adicionas novas funcionalidades e aprimoradas funcionalidades existentes nessa presentes nessa API.
+## Podem ser adicionas novas funcionalidades e aprimoradas funcionalidades existentes nessa API.
 Api feita para demonstrar conhecimento no **Framework PHALCON PHP**
 
 ⌨️ Feito por [Bruno Lopes Silva](https://github.com/brunosilvabrn) 
