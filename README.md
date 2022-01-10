@@ -3,6 +3,10 @@
 Sistema feito com Microaplicativos. Os microaplicativos (Micro applications) são adequados para pequenas aplicações que terão uma sobrecarga muito baixa. Esses aplicativos são geralmente APIs, protótipos etc.
 
 ### 🔧 Instalação
+### Necessário ter o ***Phalcon PHP*** instalado
+[tutorial de instalação - Phalcon PHP](https://docs.phalcon.io/4.0/pt-br/installation)
+
+<hr>
 
 Importar as tabelas do banco de dados **api_pahlcon.sql** para o Mysql.
 
